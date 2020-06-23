@@ -1,4 +1,20 @@
-'git clone + url of the git repro you want to clone '
+```
+git clone https://github.com/asimental100/lab-01-terminal.git
+    cd ~/alchemy/foundations-prep/lab-01-terminal
+    mkdir src
+    touch index.html
+    touch greeting.md
+    echo "Hello there!!" > greeting.md
+    cd ~/alchemy/foundations-prep/lab-01-terminal/src
+    mkdir __assets
+    touch __index.html
+    cd ~/alchemy/foundations-prep/lab-01-terminal/src/__assets
+    touch __style.css
+    touch __app.js
+    cd ~/alchemy/foundations-prep/lab-01-terminal/instructions.md
+    code .
+    ```
+
 # Big header
 ## Medium header
 ### tiny header
@@ -12,7 +28,7 @@ _fancy text_
 
 * 1 bullet
 * 2 bullet
-* 3 bullet
+* 3 bullet 
 
 Name|Type|Cool Factor
 ---|---|---
