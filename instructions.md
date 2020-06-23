@@ -3,10 +3,17 @@
 ## Medium header
 ### tiny header
 **Strong text**
+
 _fancy text_
+
 1. one
 1. one plus one
 1. one plus one plus one
+
+* 1 bullet
+* 2 bullet
+* 3 bullet
+
 Name|Type|Cool Factor
 ---|---|---
 spot | puppy | 10
